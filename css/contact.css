@@ -1,0 +1,44 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body{
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+address{
+	color: blue;
+	padding: 5px;
+	font-size: 20px;
+	font-display: block;
+	display: flex;
+}
+h3{
+	color: red;
+	padding: 5px;
+	font-size: 30px;
+	font-display: block;
+	display: flex;
+	box-shadow: rgba(0, 0, 0, 1.0);
+}
+.map{
+	width: 1000px;
+	height: 700px;
+	margin-left: 250px;
+	padding: 20px;
+	border-radius: 50%;
+}
+.link{
+	background-color: green;
+	background-position: center;
+	color: red;
+	font-size: 25px;
+	padding: 40px;
+}
+h1{
+	color: blue;
+	text-align: center;
+	align-items: center;
+}

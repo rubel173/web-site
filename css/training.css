@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+h1{
+	background-color: green;
+	color: white;
+	text-align: center;
+	align-items: center;
+	padding: 5px;
+}
+p{
+	background-color: white;
+	color: yellowgreen;
+	text-align: left;
+	padding: 5px;
+	font-size: 30px;
+}
+.ref{
+	text-align: center;
+	align-items: center;
+}
