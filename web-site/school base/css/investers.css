@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: opx;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(../images/Investors.jpg);
+	background-size: cover;
+	background-position: initial;
+	font-family: sans-serif;
+}
+.investers{
+	font-size: 100px;
+	align-items: center;
+	text-align: center;
+	color: red;
+}
+.by{
+	font-size: 70px;
+	align-items: center;
+	text-align: center;
+	color: seagreen;
+}
+.gbis{
+	font-size: 100px;
+	align-items: center;
+	text-align: center;
+	color: yellowgreen;
+}
+img{
+	width: 300px;
+	margin-left: 500px;
+	border-radius: 70%;
+}
+img:hover{
+	transform: scale(1.5);
+	z-index: 2;
+	transition: 1s;
+}
